@@ -1,0 +1,12 @@
+Things to have at ready - 
+  Account in https://repl.it/, https://uptimerobot.com/ & Discord account token (Google if you don't know how to get it).
+
+Create a new python repl and drag and drop all files into the repl.
+Then, in .env add you token (Ex. BOT_TOKEN=EXAMPLETOKEN).
+Go back to main.py, run it, then wait for dependancies to install.
+Copy the link that comes in the window above the console and head to uptimerobot and follow the instructions given here :
+  https://repl.it/talk/learn/How-to-use-and-setup-UptimeRobot/9003
+
+Once done, re-run the repl (Stop it and then start, just so no errors occur).
+
+HAVE FUN!
